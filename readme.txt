@@ -12,3 +12,4 @@ which python3
 pip install numpy
 pip install matplotlib
 pip install scipy
+pip install scikit-learn

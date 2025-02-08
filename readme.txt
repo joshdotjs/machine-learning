@@ -10,3 +10,4 @@ which python3
 
 # Install libs:
 pip install numpy
+pip install matplotlib
